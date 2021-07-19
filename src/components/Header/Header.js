@@ -16,7 +16,7 @@ const Header = () => {
                         Yeiner Villegas, Software Developer
                     </h1>
                     <Rtype className="typed-text"
-                        strings={["JavaScript","React", "Java", "Ruby", "Bootstrap",]}
+                        strings={["JavaScript","React", "Java", "Ruby", "Bootstrap", "HTML", "CSS3"]}
                         typeSpeed={40}
                         backSpeed={60}
                         loop
