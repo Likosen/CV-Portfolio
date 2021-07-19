@@ -1,0 +1,33 @@
+.navbar-brand-avatar {
+  max-width: 17.25rem;
+  padding: 0% !important;
+  height: 4rem !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-brand-avatar img {
+  width: 72px;
+  height: 72px;
+}
+
+.navbar-nav > li > a {
+  color: white !important;
+}
+
+.navbar-nav > li > a.active, .navbar-nav > li > a:focus {
+ border-top: 0.1875rem solid #f9ab00;
+ color: #b0b0b0 !important;
+}
+
+.navbar-nav li:hover a {
+  color: #b0b0b0 !important;
+}
+
+@media screen and (max-width: 990px) {
+  .navbar-collapse-link {
+    margin-top: 20px;
+  }
+  
+}
